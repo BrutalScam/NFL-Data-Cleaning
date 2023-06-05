@@ -6,11 +6,11 @@ Data cleaning of NFL elo dataset
 nfl_elo_latest.xlsx
 
 # Packages: 
-Readxl – Data Importation
-Tidyverse – Data Handling and Data Cleaning
-Funmodeling – Data Overview and Data Structure
-Lubridate – Date Formatting
-Mice – Missing Data Imputation
+1. Readxl – Data Importation
+2. Tidyverse – Data Handling and Data Cleaning
+3. Funmodeling – Data Overview and Data Structure
+4. Lubridate – Date Formatting
+5. Mice – Missing Data Imputation
 
 # Sections:
 1.	Packages: library ()
